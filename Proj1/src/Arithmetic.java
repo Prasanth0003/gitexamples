@@ -5,4 +5,5 @@ public class Arithmetic{
 	public double subtract(double x, double y) {
 		return x-y;
 	}
+	//HAI
 }
